@@ -24,7 +24,7 @@ This repository features an interactive dashboard created with Power BI to analy
 
 ## How to View the Dashboard
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/)
-2. Download the `.pbix` file from this repository (when available)
+2. Download the `.pbix` file from this repository
 3. Open the file in Power BI to explore the interactive dashboard
 
 ---
